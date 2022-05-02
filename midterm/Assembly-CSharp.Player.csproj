@@ -59,6 +59,8 @@
     <Compile Include="Assets\cubespitter.cs" />
     <Compile Include="Assets\aiConttoller.cs" />
     <Compile Include="Assets\followcursor.cs" />
+    <Compile Include="Assets\NewBehaviourScript.cs" />
+    <Compile Include="Assets\camshake.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
